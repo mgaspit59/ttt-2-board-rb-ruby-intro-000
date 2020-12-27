@@ -1,4 +1,3 @@
 board
-board []
+board = []
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-board.put

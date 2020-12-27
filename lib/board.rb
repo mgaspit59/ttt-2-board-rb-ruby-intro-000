@@ -1,6 +1,6 @@
 board
 board = Array.new
-board.puts = " "
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 board.puts = " "
 board.puts = " "
 board.puts = " "
